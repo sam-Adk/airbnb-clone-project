@@ -98,7 +98,7 @@ Each role plays a vital part in the project’s success:
 - **Builders (Frontend, Backend, DevOps)** implement features and infrastructure.  
 - **Quality Gatekeepers (Designers, QA/Testers)** ensure the final product is user-friendly, reliable, and polished.  
 
-## UI Component Patterns
+## UI/UX Design Planning
 
 To ensure reusability, consistency, and scalability across the Airbnb Clone project, we will build a set of standardized UI components. These components will follow a **design system approach**, making it easier to maintain and expand the application over time.
 
