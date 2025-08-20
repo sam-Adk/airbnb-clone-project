@@ -306,6 +306,40 @@ This ensures that code changes are integrated smoothly, tested consistently, and
 
 By using CI/CD pipelines, the Airbnb Clone project ensures faster delivery, higher quality code, and a smoother developer experience.
 
+## Team Roles
+
+A successful Airbnb Clone project requires collaboration across different roles, each contributing specific expertise.  
+The key roles and responsibilities are:
+
+### 1. Backend Developer
+Responsible for building and maintaining the server-side logic of the application.  
+Implements APIs, handles authentication/authorization, manages data flow between the server and database, and ensures system performance and scalability.
+
+### 2. Frontend Developer
+Focuses on creating the user interface and user experience.  
+Implements responsive designs, integrates frontend components with backend APIs, and ensures smooth navigation for users across devices.
+
+### 3. Database Administrator (DBA)
+Designs, implements, and manages the project’s database.  
+Ensures data integrity, optimizes queries, manages backups, and maintains security of sensitive information such as user accounts and payments.
+
+### 4. DevOps Engineer
+Builds and maintains CI/CD pipelines, infrastructure, and deployment workflows.  
+Manages cloud environments, monitors application performance, and ensures reliable, scalable, and automated deployments.
+
+### 5. QA Engineer (Tester)
+Responsible for testing the application to ensure quality and reliability.  
+Writes automated tests, performs manual testing, identifies bugs, and works closely with developers to ensure issues are resolved before release.
+
+### 6. Project Manager
+Oversees the project timeline, scope, and communication between team members.  
+Coordinates tasks, facilitates collaboration, and ensures that milestones and deadlines are met.
+
+### 7. UI/UX Designer
+Designs the look and feel of the application.  
+Creates wireframes, prototypes, and design assets that guide the frontend development to ensure a user-friendly and visually appealing product.
+
+
 
 
 
